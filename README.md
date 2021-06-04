@@ -1,4 +1,4 @@
-# notebook
+# Notebook
 ## Variable Basics
 #### Rules for nameing a Variable.
 
