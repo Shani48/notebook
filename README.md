@@ -1,27 +1,21 @@
 # Notebook
 ## Variable Basics
-#### Rules for nameing a Variable.
++ Rules for nameing a Variable.
 
-#### Can't use reverse keywords(e.g. True,for)
++ Can't use reverse keywords(e.g. True,for)
 
-#### Can't use special character(e.g. $furit)
++ Can't use special character(e.g. $furit)
 
-#### Variable name must be begin with letter or _ (name = "Shan", cant use 6744 = "number " as variable name)
++ Variable name must be begin with letter or _ (name = "Shan", cant use 6744 = "number " as variable name)
 
-#### Variable names are case senstive.
-
-#### Example:
-
++ Variable names are case senstive.
 
 
 ## Python Numbers
 There are three numeric types in Python:
-
-int
-
-float
-
-complex
++ int
++ float
++ complex
 
 Variables of numeric types are created when you assign a value to them:
 
