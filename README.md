@@ -11,7 +11,7 @@
 + Variable names are case senstive.
 
 
-## Python Numbers
+## Numbers
 There are three numeric types in Python:
 + int
 + float
