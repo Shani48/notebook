@@ -51,3 +51,9 @@ Variables of numeric types are created when you assign a value to them:
 + Add or concate two lists using + operator
 + Replace list items using index operator
 + Replace multiple list items using slicing
+
+## if..else condition
+#### if statement is a programming conditional statement that, if proved true, performs a function or displays information.
++ Conditional operators for if 
++ if..elif..else 
++ Ternary operator 
