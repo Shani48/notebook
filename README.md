@@ -38,8 +38,8 @@ Variables of numeric types are created when you assign a value to them:
 
 
 ## List
-#### Lists are used to store multiple items in a single variable, lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
-#### Lists are created using square brackets:
+Lists are used to store multiple items in a single variable, lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+Lists are created using square brackets:
 
 + Access list items using index
 + Access list items from reverse using negative index
@@ -53,14 +53,14 @@ Variables of numeric types are created when you assign a value to them:
 + Replace multiple list items using slicing
 
 ## if..else condition
-#### if statement is a programming conditional statement that, if proved true, performs a function or displays information.
+if statement is a programming conditional statement that, if proved true, performs a function or displays information.
 + Conditional operators for if 
 + if..elif..else 
 + Ternary operator 
 
 
 ## For Loop
-## A for loop is a repetition control structure that allows you to efficiently write a loop that needs to be executed a specific number of times, a for loop is useful when you know how many times a task is to be repeated.
+A for loop is a repetition control structure that allows you to efficiently write a loop that needs to be executed a specific number of times, a for loop is useful when you know how many times a task is to be repeated.
 + for loop introduction 
 + range() function 
 + break in for loop 
