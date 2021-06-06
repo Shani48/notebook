@@ -57,3 +57,12 @@ Variables of numeric types are created when you assign a value to them:
 + Conditional operators for if 
 + if..elif..else 
 + Ternary operator 
+
+
+# For Loop
+## A for loop is a repetition control structure that allows you to efficiently write a loop that needs to be executed a specific number of times, a for loop is useful when you know how many times a task is to be repeated.
++ for loop introduction 
++ range() function 
++ break in for loop 
++ continue keyword 
++ while loop
