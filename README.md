@@ -35,3 +35,19 @@ Variables of numeric types are created when you assign a value to them:
 + multiline string using tripple quotes (''')
 + \n and \t characters
 + +operator to join two strings
+
+
+# List
+#### Lists are used to store multiple items in a single variable, lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+#### Lists are created using square brackets:
+
++ Access list items using index
++ Access list items from reverse using negative index
++ Slicing to access multiple list items
++ len() function
++ in operator to check if element exist in a list or not
++ append() function to append the new element in the list
++ insert() function to insert element at a given position in the python list
++ Add or concate two lists using + operator
++ Replace list items using index operator
++ Replace multiple list items using slicing
