@@ -66,3 +66,6 @@ A for loop is a repetition control structure that allows you to efficiently writ
 + break in for loop 
 + continue keyword 
 + while loop
+
+## Function
++ Add function
